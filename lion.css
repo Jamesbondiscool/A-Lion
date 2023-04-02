@@ -1,0 +1,15 @@
+#lion {
+    text-align: left;
+}
+
+#lion img {
+    width: 600px;
+    height: 600px;
+}
+
+#greeting {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: left;
+    position: relative;
+}
